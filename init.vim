@@ -3,7 +3,7 @@
 " ======================================
 
 " Keybindings
-  source $HOME/.nvim/map.vim
+  source $HOME/.config/nvim/map.vim
 
 " Tab settings
 " --------------------------
@@ -17,4 +17,3 @@
 " GUI Settings
 " Allow mouse to move cursor
   set mouse=a
-  set ttymouse=xterm2
